@@ -17,6 +17,7 @@ This application is perfect for understanding trends, sales performance, and ite
 
 # Demo Video and Images  
 🎥 **Demo Video**  
+
   https://github.com/user-attachments/assets/7fce8d68-3133-4d8a-99ae-e410f9631467
 
 📸 **Screenshots**  
@@ -24,7 +25,8 @@ This application is perfect for understanding trends, sales performance, and ite
   ![image](https://github.com/user-attachments/assets/0b441420-12af-4362-8d61-1e5fc9dceb21)
 
 - # Graph on details of month
-  ![image](https://github.com/user-attachments/assets/8e422de8-d77d-43a1-814f-a9411118ddc2)
+  ![image](https://github.com/user-attachments/assets/27b44ad0-2a3f-488a-99e5-aec0913c0d96)
+
 
 - # database on Mongodb
   ![image](https://github.com/user-attachments/assets/e74feb2b-cee7-44e9-a9fa-561b5828cb79)
