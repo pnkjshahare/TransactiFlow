@@ -2,6 +2,10 @@
 # About my project (TransactiFlow)  
 🚀 **TransactiFlow** is a MERN Stack-based web application designed to manage and visualize product transaction data. This project aims to provide a seamless user experience with detailed analytics and insightful visualizations. The app includes the following features:  
 - **Transaction Listing**: With support for search and pagination, users can easily explore transaction records.  
+
+
+
+
 - **Monthly Statistics**: Provides key sales insights, such as total sales amount, the number of sold and unsold items for a selected month.  
 - **Price Range Bar Chart**: Displays the distribution of items within predefined price ranges for the selected month.  
 - **Category-wise Pie Chart**: Visualizes the number of items in different categories for the selected month.  
@@ -13,15 +17,18 @@ This application is perfect for understanding trends, sales performance, and ite
 
 # Demo Video and Images  
 🎥 **Demo Video**  
-[Watch the demo video](insert_demo_video_link)  
+  https://github.com/user-attachments/assets/7fce8d68-3133-4d8a-99ae-e410f9631467
 
 📸 **Screenshots**  
-- ![Screenshot 1](path_to_image_1)  
-  _Transaction Table with Search & Pagination_  
-- ![Screenshot 2](path_to_image_2)  
-  _Bar Chart for Price Range Distribution_  
-- ![Screenshot 3](path_to_image_3)  
-  _Pie Chart for Category-wise Distribution_  
+- # Transition Details
+  ![image](https://github.com/user-attachments/assets/0b441420-12af-4362-8d61-1e5fc9dceb21)
+
+- # Graph on details of month
+  ![image](https://github.com/user-attachments/assets/8e422de8-d77d-43a1-814f-a9411118ddc2)
+
+- # database on Mongodb
+  ![image](https://github.com/user-attachments/assets/e74feb2b-cee7-44e9-a9fa-561b5828cb79)
+
 
 ---
 
